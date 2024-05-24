@@ -2,6 +2,9 @@
 
 ## Just upload files in hosting services.
 
+## Demo
+https://whois.modloff.com
+
 
 ## Images
 ![image](https://github.com/MODLOFF/whois/assets/57722514/d9db8290-ce15-4296-8fb4-9a1e0af4c4c7)
